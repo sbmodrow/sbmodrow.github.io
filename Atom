@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Welcome to MyTyft : Personalize Gift Vouchers and Surprise Your Friends and Family">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Welcome to our MyTyft Website</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/sbmodrow">View on GitHub</a>
+
+          <h1 id="project_title">Welcome to MyTyft</h1>
+          <h2 id="project_tagline">Personalize Gift Vouchers and Surprise Your Friends and Family</h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="welcome-to-our-tyft-website" class="anchor" href="#welcome-to-our-tyft-website" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to our TYFT Website.</h3>
+
+<p>The place to personalize your gift vouchers.</p>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGflUbPQfW8" frameborder="0" allowfullscreen></iframe>
+<div id="footer_wrap" class="outer">
+  <footer class="inner">
+
+      </section>
+    </div>
+
+<div id="footer_wrap" class="outer">
+  <footer class="inner">
+
+<p>Just <a href="http://mytyft.com"> try </a> it out.</p>
+</footer>
+</div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+      </footer>
+    </div>
+
+    <br>
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+
+    <p>The next <a href="http://mytyft.com/voucher_select.php?media_id_voucher=53&voucher_img=main_file/images/1443281552.jpg"> steps </a> are super easy.</p>
+    </footer>
+    </div>
+
+        <!-- FOOTER  -->
+        <div id="footer_wrap" class="outer">
+          <footer class="inner">
+            <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+          </footer>
+        </div>
+
+  </body>
+</html>
